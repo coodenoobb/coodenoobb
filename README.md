@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Vivek</h1>
-- 🔭 I’m currently working as an <h1>IT Audit</h1>
+
+- 🔭 I’m currently working as an <b>IT Audit</b>
 
 - 📄 Know about my experiences [Click](https://coodenoobb.github.io/vivek-here.github.io/)
 
