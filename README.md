@@ -1,5 +1,5 @@
 
-- 🔭 I’m currently working as an <b>IT Audit</b>
+- 🔭 I’m currently working as an <b>Info Tech Auditor</b> at <b><i>Sears</i></b>
 
 - 📄 Know about my experiences [Click](https://coodenoobb.github.io/vivek-here.github.io/)
 
